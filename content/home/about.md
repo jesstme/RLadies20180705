@@ -31,6 +31,6 @@ weight = 5 #this is referring to the order
 
 # Biography
 
-Jess Thrift is a manager of performance improvement at a local hospital. Her interests include __, __ and __. She leads the ____ group, which develops ____, ____, and ____.
+Jess Thrift is a manager of performance improvement at a local hospital. Her interests include her dog Fox, her wife Merritt, and her future baby, thusfar named "Bump."" She leads the ____ group, which develops ____, ____, and ____.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
